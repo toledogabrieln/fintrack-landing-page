@@ -27,7 +27,7 @@ It was built to demonstrate front-end skills using clean HTML, CSS and basic Jav
 ## 🌐 Live Preview
 
 You can view the live version here:  
-➡️ (add your GitHub Pages link here)
+➡️ (https://toledogabrieln.github.io/fintrack-landing-page/)
 
 ---
 
@@ -39,5 +39,5 @@ This project was created as a portfolio piece to showcase basic front-end develo
 
 ## 👤 Author
 
-Gabriel Toledo  
+Gabriel H. Toledo  
 Front-end Development Student
